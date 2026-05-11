@@ -110,7 +110,7 @@ On first run, `general_emissions()` will compute ocean routing distances and sav
 The `Aviation_Data/` directory contains:
 - `T_T100I_SEGMENT_ALL_CARRIER-2.csv` — BTS T-100 international segment data (included for convenience)
 
-A proprietary aviation fuel burn dataset is also required for the full analysis but cannot be included in this repo. Please contact **aghart@mit.edu** if you would like access.
+The fuel burn dataset referenced as `2024_out.csv` is **not included** in this repository because it contain proprietary data and cannot be redistributed publicly. Please contact **fallrogg@mit.edu** if you are interested in access.
 
 To re-download the T-100 data directly from BTS:
 
